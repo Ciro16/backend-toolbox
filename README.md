@@ -11,6 +11,7 @@ Estas instrucciones te permiten crear una copia del proyecto en tu máquina loca
 - Clona el repositorio en tu máquina local. ⬇️
 - Debes tener NodeJS instalado.
 - Abre una terminal en la raiz del proyecto.
+- Ejecuta "npm install" para descargar las dependencias del proyecto.
 - Ejecuta npm run start. Esto levantará un servidor en tu red local en el puerto 4000.
 - Ahora a probarlo 😊
 
